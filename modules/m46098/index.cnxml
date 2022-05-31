@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Sposób egipski</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46098</md:content-id>
+  <md:title>Sposób egipski</md:title>
+  <md:abstract/>
+  <md:uuid>1ff64c7e-24bb-4ac3-afd8-45d1c1cd6463</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><!-- Insert module text here -->
+Od bardzo dawna ludzie posługują się liczbami i zapisują liczby w najróżniejszy sposób.</para>
+
+<media id="liczby_egipt" alt="System zapisu liczb w Egipcie">
+	   
+  <image mime-type="image/svg+xml" src="../../media/Liczby_egipt.svg"/>
+		 
+</media>
+  <para id="delete_me1">Żeby zapisać czterysta, Egipcjanin rysował cztery znaki oznaczające sto. Aby napisać rok 1981, trzeba już narysować więcej znaków.</para>
+<media id="liczby_egipt1" alt="System zapisu liczb w Egipcie - zadanie">
+	   
+  <image mime-type="image/svg+xml" src="../../media/Liczby_egipt_zad.svg"/>
+		 
+</media><example id="eip-110"><para id="eip-91">
+  Zapisz rok Twoich urodzin w systemie egipskim.
+</para>
+</example>
+</content>
+
+</document>

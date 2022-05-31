@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Sposób japoński</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46102</md:content-id>
+  <md:title>Sposób japoński</md:title>
+  <md:abstract/>
+  <md:uuid>268f9915-9316-4f69-8b11-652c503ad6f2</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><!-- Insert module text here -->
+Japończycy zapisują liczby używając następujących znaków:</para>
+
+<media id="liczby_jap" alt="System zapisu liczb w Japonii">
+	   
+  <image mime-type="image/svg+xml" src="../../media/Liczby_japon.svg"/>
+		 
+</media>
+  <para id="delete_me1">Liczby piszą w kolumnach.
+</para>
+<media id="liczby_jap1" alt="System zapisu liczb w Japonii">
+	   
+  <image mime-type="image/svg+xml" src="../../media/Liczby_japon2.svg"/>
+		 
+</media><exercise id="eip-566"><problem id="eip-373">
+  <para id="eip-69">
+    Zapisz po japońsku rok, w którym skończysz 18 lat.
+  </para>
+</problem>
+
+</exercise>
+
+<exercise id="eip-5661"><problem id="eip-3731">
+  <para id="eip-691">
+    Zapisz po japońsku obecny rok.
+  </para>
+</problem>
+
+</exercise>
+
+</content>
+</document>

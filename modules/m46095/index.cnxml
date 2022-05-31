@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Liczby</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46095</md:content-id>
+  <md:title>Liczby</md:title>
+  <md:abstract>Wstęp do książki do matematyki</md:abstract>
+  <md:uuid>281f3e65-b488-4564-ba7d-506922d96aa4</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><!-- Insert module text here -->
+Pitagoras mówił “Liczba rządzi wszechświatem”.</para>
+
+<media id="ponumerowane_komputery" alt="Ponumerowane komputery.">
+ 
+  <image mime-type="image/jpeg" src="../../media/250px-Liczby_maks1.jpg"/>
+		 
+</media>
+
+<media id="bramki_w_metrze" alt="Bramki w metrze w Paryżu liczą pasażerów.">
+	   
+  <image mime-type="image/jpeg" src="../../media/250px-Liczby_metro1.jpg"/>
+		 
+</media>
+
+<para id="eip-120">Numerujemy domy, żeby trafić pod właściwy adres. Liczymy uczniów na wycieczce, żeby nikt się nie zgubił. Zdjęcia komputer lub aparat cyfrowy zapisuje za pomocą liczb. Komputer potrafi rozwiązać wiele problemów, jeśli tylko potrafimy je opisać w języku liczb. Może nawet narysować piękny obraz, który jest opisany liczbami.</para>
+
+<media id="fraktal" alt="Fraktal">
+	   
+  <image mime-type="image/jpeg" src="../../media/200px-Liczby_julia1.jpg"/>
+		 
+</media>
+
+<para id="eip-121">Przedstawiony tu zbiór nazywa się fraktalem i jest rozwiązaniem pewnego równania rekurencyjnego. Narysował go komputer. Z pewnością widziałeś jak w sklepie pani sprzedawczyni wczytuje kod kreskowy kupowanego towaru. Komputer potrafi taki kod odczytać i dopisać do rachunku odpowiednią cenę.</para>
+
+<media id="czytnik" alt="Kod kreskowy">
+	   
+  <image mime-type="image/jpeg" src="../../media/200px-Liczby_czytnik1.jpg"/>
+		 
+</media>
+</content>
+
+</document>

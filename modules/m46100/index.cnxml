@@ -1,0 +1,54 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Sposób rzymski</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46100</md:content-id>
+  <md:title>Sposób rzymski</md:title>
+  <md:abstract/>
+  <md:uuid>7addb488-5937-411d-83e5-d13890855f6c</md:uuid>
+</metadata>
+
+<content>
+<media id="zegarek_rzym" alt="Cyfry rzymskie na zegarku.">
+	   
+  <image mime-type="image/jpg" src="../../media/250px-Zegarek_rzym.jpg"/>
+		 
+</media>
+
+<media id="tarcza" alt="Cyfry rzymskie na szkolnej tarczy">
+	   
+  <image mime-type="image/jpg" src="../../media/150px-Tarcza.jpg"/>
+		 
+</media>
+
+<para id="eip-718">Oto podstawowe cyfry rzymskie:</para><media id="liczby_rzymskie" alt="Liczby rzymskie">
+	   
+  <image mime-type="image/svg+xml" src="../../media/Liczby_rzymskie.svg"/>
+		 
+</media>
+
+<para id="eip-945">Z tych podstawowych cyfr Rzymianie budowali nowe znaki potrzebne do oznaczenia innych liczb. Sposób tego zapisu w oznaczeniach numeracji szkół i klas mocno się u nas zakorzenił. Liczby oznaczone poszczególnymi cyframi należało dodać lub odjąć. Zawsze, gdy cyfra oznaczająca mniejszą liczbę jest przed cyfrą oznaczającą większą liczbę, należy od tej większej liczby odjąć mniejszą: VI = 5+1 = 6 ale IV = 5 - 1 = 4 DC=500+100 ale CD = 500 - 100 = 400</para><exercise id="eip-0"><problem id="eip-130">
+  <para id="eip-437">
+    Którego tomu brakuje?
+  </para>
+<media id="tomy_rzym" alt="Cyfry rzymskie - zadanie.">
+	   
+  <image mime-type="image/jpg" src="../../media/400px-Maks_ks.jpg"/>
+		 
+</media>
+</problem>
+
+<solution id="eip-44">
+  <para id="eip-73">
+    VIII
+  </para>
+</solution>
+</exercise><exercise id="eip-647"><problem id="eip-95">
+  <para id="eip-904">
+    Zapisz następujące równości cyframi arabskimi:
+  </para>
+</problem>
+
+</exercise></content>
+
+</document>
