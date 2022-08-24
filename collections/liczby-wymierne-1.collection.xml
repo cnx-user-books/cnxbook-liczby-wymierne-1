@@ -1,623 +1,248 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Piotr Dziubecki">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11512</md:content-id>
-  <md:title>Liczby wymierne 1</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>pl</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>a318cbff-c422-4f01-82a5-8df94d2f3ce7</md:uuid>
-<md:slug>liczby-wymierne-1</md:slug>
-</metadata>
-
+    <md:content-id>col11512</md:content-id>
+    <md:title>Liczby wymierne 1</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>pl</md:language>
+    <md:uuid>a318cbff-c422-4f01-82a5-8df94d2f3ce7</md:uuid>
+    <md:slug>liczby-wymierne-1</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Liczby</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m46095"/>
-        
-      
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Zapisywanie liczb</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m46097"/>
-        
-      
-    
-    
-      <col:module document="m46098"/>
-        
-      
-    
-    
-      <col:module document="m46102"/>
-        
-      
-    
-    
-      <col:module document="m46100"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Układy pozycyjne</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Gra "Dziesiątki"</md:title>
-        
-        
-        
-
-        <col:content>
+    <col:subcollection>
+      <md:title>Liczby</md:title>
+      <col:content>
+        <col:module document="m46095"/>
+        <col:subcollection>
+          <md:title>Zapisywanie liczb</md:title>
+          <col:content>
+            <col:module document="m46097"/>
+            <col:module document="m46098"/>
+            <col:module document="m46102"/>
+            <col:module document="m46100"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Uk&#x142;ady pozycyjne</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>Gra "Dziesi&#x105;tki"</md:title>
+              <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Liczby całkowite</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Definicje</md:title>
-        
-        
-        
-
-        <col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Liczby ca&#x142;kowite</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Definicje</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Zadania</md:title>
-        
-        
-        
-
-        <col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Zadania</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Działania na liczbach całkowitych</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Dodawanie</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Zadania</md:title>
-        
-        
-        
-
-        <col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Dzia&#x142;ania na liczbach ca&#x142;kowitych</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>Dodawanie</md:title>
+              <col:content>
+                <col:subcollection>
+                  <md:title>Zadania</md:title>
+                  <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Odejmowanie</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Zadania</md:title>
-        
-        
-        
-
-        <col:content>
+                </col:subcollection>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Odejmowanie</md:title>
+              <col:content>
+                <col:subcollection>
+                  <md:title>Zadania</md:title>
+                  <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Liczby przeciwne</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Gra Pionki</md:title>
-        
-        
-        
-
-        <col:content>
+                </col:subcollection>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Liczby przeciwne</md:title>
+              <col:content>
+                <col:subcollection>
+                  <md:title>Gra Pionki</md:title>
+                  <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Projekt Strefy czasowe</md:title>
-        
-        
-        
-
-        <col:content>
+                </col:subcollection>
+                <col:subcollection>
+                  <md:title>Projekt Strefy czasowe</md:title>
+                  <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Mnożenie liczb całkowitych</md:title>
-        
-        
-        
-
-        <col:content>
+                </col:subcollection>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Mno&#x17C;enie liczb ca&#x142;kowitych</md:title>
+              <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Dzielenie liczb całkowitych</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Zadania</md:title>
-        
-        
-        
-
-        <col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Dzielenie liczb ca&#x142;kowitych</md:title>
+              <col:content>
+                <col:subcollection>
+                  <md:title>Zadania</md:title>
+                  <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Kolejność wykonywania zadań</md:title>
-        
-        
-        
-
-        <col:content>
+                </col:subcollection>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Kolejno&#x15B;&#x107; wykonywania zada&#x144;</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Ułamki</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Pojęcie ułamka</md:title>
-        
-        
-        
-
-        <col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>U&#x142;amki</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Poj&#x119;cie u&#x142;amka</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Złoty podział</md:title>
-        
-        
-        
-
-        <col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Z&#x142;oty podzia&#x142;</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Rozszerzanie i skracanie ułamków</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Zadania</md:title>
-        
-        
-        
-
-        <col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Rozszerzanie i skracanie u&#x142;amk&#xF3;w</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>Zadania</md:title>
+              <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Działania na ułamkach</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Dodawanie i odejmowanie ułamków</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Zadania</md:title>
-        
-        
-        
-
-        <col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Dzia&#x142;ania na u&#x142;amkach</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>Dodawanie i odejmowanie u&#x142;amk&#xF3;w</md:title>
+              <col:content>
+                <col:subcollection>
+                  <md:title>Zadania</md:title>
+                  <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Mnożenie ułamków</md:title>
-        
-        
-        
-
-        <col:content>
+                </col:subcollection>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Mno&#x17C;enie u&#x142;amk&#xF3;w</md:title>
+              <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Dzielenie ułamków</md:title>
-        
-        
-        
-
-        <col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Dzielenie u&#x142;amk&#xF3;w</md:title>
+              <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Zadania</md:title>
-        
-        
-        
-
-        <col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Zadania</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Liczby dziesiętne</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Dodawanie i odejmowanie liczb dziesiętnych</md:title>
-        
-        
-        
-
-        <col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Liczby dziesi&#x119;tne</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Dodawanie i odejmowanie liczb dziesi&#x119;tnych</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Zaokrąglanie liczb dziesiętnych</md:title>
-        
-        
-        
-
-        <col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Zaokr&#x105;glanie liczb dziesi&#x119;tnych</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Mnożenie i dzielenie przez 10, 100, 1000 ...</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Zamiany jednostek</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      
-        
-      <col:subcollection>
-        <md:title>Jednostki długości</md:title>
-        
-        
-        
-
-        <col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Mno&#x17C;enie i dzielenie przez 10, 100, 1000 ...</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>Zamiany jednostek</md:title>
+              <col:content>
+                <col:subcollection>
+                  <md:title>Jednostki d&#x142;ugo&#x15B;ci</md:title>
+                  <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Jednostki powierzchni</md:title>
-        
-        
-        
-
-        <col:content>
+                </col:subcollection>
+                <col:subcollection>
+                  <md:title>Jednostki powierzchni</md:title>
+                  <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Jednostki objętości</md:title>
-        
-        
-        
-
-        <col:content>
+                </col:subcollection>
+                <col:subcollection>
+                  <md:title>Jednostki obj&#x119;to&#x15B;ci</md:title>
+                  <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Mnożenie liczb dziesiętnych</md:title>
-        
-        
-        
-
-        <col:content>
+                </col:subcollection>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Mno&#x17C;enie liczb dziesi&#x119;tnych</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Dzielenie liczb dziesiętnych</md:title>
-        
-        
-        
-
-        <col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Dzielenie liczb dziesi&#x119;tnych</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Projekt “Wycieczka do Paryża”</md:title>
-        
-        
-        
-
-        <col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Projekt &#x201C;Wycieczka do Pary&#x17C;a&#x201D;</md:title>
+          <col:content>
           
         </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
